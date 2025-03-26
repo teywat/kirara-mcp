@@ -1,0 +1,6 @@
+name: mcp-host
+version: 0.1
+description: 提供llm model context protocol client接入
+author: firefly
+requirements: 
+  - "mcp[cli]"
